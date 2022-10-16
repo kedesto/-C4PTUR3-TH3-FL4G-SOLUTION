@@ -1,0 +1,60 @@
+CAPTURE THE FLAG (TRY HACK ME)
+TASK 1  USE WEBSITE CYBER CHEF FOR TASK 1 USE FROM TYPE 
+DO IT YOUR SELF IF ANY PROBLEM (ANS IS GIVEN )
+QNO 1 
+ANS  CAN YOU CAPTURE THE FLAG
+QNO2
+ANS  USE CYBER CHEF WEBSITE AND PASTE THE CODE 
+USE FROM DECIMAL AND ANS is      unpack this BCD
+QNO 3
+ANS cyber chef website and paste code
+use FROM BASE32 AND ANS IS     super common in CTF
+
+QNO4 
+CYBER CHEF  USE FROM BASE 64
+ QNO 5
+ CYBER CHEF  USE FROM HEX
+ ANS IS hexadecimal or base 16?
+QNO 6
+CYBER CHEF FROM ROT 13
+ANS IS Rotate me 13 places !
+QNO7
+ FROM ROT 47 USE 
+QNO8
+MORSE 
+ANS IS  TELECOMMUNICATION ENCODING
+QNO 9
+FROM DECIMAL 
+ANS IS  unpack this BCD
+QNO 10 
+1 FROM BASE64
+2 FROM MORSE 
+3 FROM BINARY
+4 ROT47 
+5 FROM DECIMAL
+ANIS IS let make this little trickier
+TASK 2 
+DOWNLOAD SONIC VISUALIZER IN KALI LINUX  BY COMMAND
+sudo apt-get update
+sudo apt-get -y install sonic-visualiser
+AND GO TO FIREFOX OPEN TRY HACK ME WEBSITE DOWNLOAD THE TASK
+OPEN SONIC VISUALIZER GO TO FILE OPTION CLICK TO OPEN SELECT DOWNLOADN TASK
+THEN USE LAYER OPTION ADD SPECTROGRAM IT GIVE HIDDEN MEASSAGE IN AUDIO
+ANS IS SUPER SECRET MESSAGE
+TASK 3
+
+DOWNLOAD OR SAVE TASK USE FIRE FOX IN KALI LINUX
+USE COMMAND IN LINUX TERMINAL 
+steghide extract -sf  stegostag.jpg(file name in download)  
+Ans in txt form go to download option in linux you see file in txt format which show
+spaghettistag
+TASK 4
+QNO1 
+DOWNLOAD TASK  IN KALI USE FIREFOX USE COMMAND IN LINUX
+cat meme.jpg (which is file name) 
+ note answer show in last after command run
+ans is hackerchat.jpg
+QNO2 
+commnad in terminal 
+strings meme.jpg (file name)  
+ note  answer show in last after command execute
